@@ -1,0 +1,30 @@
+.content{
+	background-color: GREEN;
+	width: 50%;
+	height: 100%;
+	overflow: auto;
+	
+
+}
+.left{
+	float: left;
+	width: 20%;
+	height: 100%;
+	background-color: #ff0000;
+	margin-right: 20px;
+	
+
+}
+.right{
+	float: right;
+	width: 20%;
+	height: 100%;
+	background-color: #ff0000;
+	margin-left: 20px;
+}
+.body{
+	height: 100%;
+	width: 100%;
+	display: inline;
+
+}
